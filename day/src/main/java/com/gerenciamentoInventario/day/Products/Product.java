@@ -1,9 +1,9 @@
 package com.gerenciamentoInventario.day.Products;
 
 public abstract class Product {
-    private String name;
-    private double price;
-    private String sku;
+    public String name;
+    public double price;
+    public String sku;
 
     public Product(String name, double price, String sku) {
         this.name = name;
