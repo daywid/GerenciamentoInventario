@@ -1,5 +1,8 @@
 # GerenciamentoInventario - Daywid Jerry Mendes
-## gerenciamento de inventario padrão de projeto Abstract Factory e injeção de dependencia
+
+
+
+## gerenciamento de inventario com padrão de projeto Abstract Factory e injeção de dependencia
 
 Escolhas de design: 
 
