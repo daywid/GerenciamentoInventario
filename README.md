@@ -2,7 +2,7 @@
 
 
 
-## gerenciamento de inventario com padrão de projeto Abstract Factory e injeção de dependencia
+### Gerenciamento de inventario com padrão de projeto Abstract Factory e injeção de dependencia
 
 Escolhas de design: 
 
